@@ -1,0 +1,16 @@
+{
+  "name": "red.rpc",
+  "version": "1.0.0",
+  "private": false,
+  "license": "MIT",
+  "dependencies": {
+    "bluebird": "^2.10.1",
+    "lodash": "^3.10.1"
+  },
+  "devDependencies": {
+    "chai": "^3.3.0",
+    "chai-as-promised": "^5.1.0",
+    "mocha": "^2.3.3",
+    "redis": "^2.0.0"
+  }
+}
