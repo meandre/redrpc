@@ -1,8 +1,10 @@
 {
   "name": "red.rpc",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "private": false,
   "license": "MIT",
+  "author": "Andrew Pazniak <andrew.pazniak@gmail.com>",
+  "repository": "meandre/redrpc",
   "dependencies": {
     "bluebird": "^2.10.1",
     "lodash": "^3.10.1"
